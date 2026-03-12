@@ -36,7 +36,8 @@ Exploratory Data Analysis
 ---
 
 ### Dashboard Preview
-(Upload your screenshot here in the next step)
+<img width="1381" height="782" alt="image" src="https://github.com/user-attachments/assets/4e4e804e-c28a-40bb-939a-911f2e5db5a7" />
+
 
 ---
 
